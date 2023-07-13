@@ -1,7 +1,8 @@
 # Yolov8 Instance Segmentation Demo
 
 # Project Description
-This project is a demo of instance segmentation using Yolov8 and ONNX Runtime. It is written in C++ and utilizes the OpenCV library for image processing. With this demo, you can learn how to load a model, perform image preprocessing, run inference, post-process the results, and generate instance segmentation images.
+This project is a demo of instance segmentation using Yolov8 and ONNX Runtime. It is written in C++ and utilizes the OpenCV library for image processing. With this demo, you can learn how to load a model, perform image preprocessing, run inference, post-process the results, and generate instance segmentation images.  
+vx:littleeyu
 
 # Features
 Load Yolov8 model for instance segmentation inference
@@ -46,7 +47,8 @@ ONNX Runtime C++ API
 
 # 项目名称
 
-Yolov8 实例分割 Demo
+Yolov8 实例分割 Demo  
+vx:littleeyu
 
 # 项目描述
 
